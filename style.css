@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;    
+}
+
+html {
+    height: 100%;
+  }
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0; /* Add padding to the body */
+text-align: center; /* Centra el contenido */
+background: linear-gradient(135deg, #ffecd2 0%, #ffecd2 100%); ; /* Gradiente de fondo */
+}
+
+.main-message{
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+
+.title{
+    padding-left: 20px;
+}
+.main-input-box
+{
+    
+    width: 525px;
+    border-radius: 100px;
+    border: 1px solid #dfe1df;
+}
+
+.tablaCom{
+    padding-left: 20px;
+}
+footer{
+    width: 100%;
+}
